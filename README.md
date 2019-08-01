@@ -34,4 +34,4 @@ In addition you can query the ontology by natural language, using the following 
 To create the ontology, run from the cmd line:<br>
 ```python geo_qa.py create ontology.nt```<br>
 To query an existing ontology, run:<br>
-```python geo_qa.py question $your natural language question string$``` 
+```python geo_qa.py question "your natural language question string"``` 
